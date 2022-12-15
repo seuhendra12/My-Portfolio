@@ -60,7 +60,7 @@ const Contact = () => {
               <strong className="site-footer-title d-block mt-4 mb-3">
                 Projects
               </strong>
-              <p className="mb-0">
+              <p className="text-justify mb-0">
                 Saya baru belajar membuat proyek sederhana dengan menggunakan
                 beberapa bahasa pemrograman
               </p>
@@ -69,7 +69,7 @@ const Contact = () => {
           <div className=" col-md-9 col-12 ps-lg-0">
             <div className="contact-info d-flex flex-column">
               <strong className="site-footer-title d-block mb-3">About</strong>
-              <p className="mb-2">
+              <p className="text-justify mb-2">
                 Saya seorang Mahasiswa Semester 5 di Politeknik Negeri Padang
                 Jurusan Teknologi Informasi Program Studi D3 Manajemen
                 Informatika.

@@ -26,7 +26,7 @@ const About = () => {
                   />
                 </div>
                 <h3 className="pt-2 mb-3">Aku dan tentang diriku</h3>
-                <p>
+                <p className="text-justify">
                   Saya seorang Mahasiswa Semester 5 di Politeknik Negeri Padang
                   Jurusan Teknologi Informasi Program Studi D3 Manajemen
                   Informatika. Saya belajar bahasa java, bahasa c, dan bahasa
@@ -51,16 +51,20 @@ const About = () => {
                 <div className="profile-body">
                   <p>
                     <span className="profile-small-title">Nama</span>
-                    <span>Seuhendra Setiawan</span>
+                    <span className="text-span">Seuhendra Setiawan</span>
                   </p>
                   <p>
                     <span className="profile-small-title">TTL</span>
-                    <span>Kundur Barat Karimun, 20 September 2001</span>
+                    <span className="text-span">
+                      Kundur Barat Karimun, 20 September 2001
+                    </span>
                   </p>
                   <p>
                     <span className="profile-small-title">Telepon</span>
                     <span>
-                      <a href="tel:082283274212" className="profile-text">
+                      <a
+                        href="tel:082283274212"
+                        className="text-span profile-text">
                         0822-8327-4212
                       </a>
                     </span>
@@ -70,7 +74,7 @@ const About = () => {
                     <span>
                       <a
                         href="mailto:seuhendra12@gmail.com"
-                        className="profile-text">
+                        className="text-span profile-text">
                         seuhendra12@gmail.com
                       </a>
                     </span>

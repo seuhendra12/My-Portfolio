@@ -19,7 +19,7 @@ const Home = () => {
                 />
                 <h1 className="hero-title ms-3 mb-0">Hallo all!</h1>
               </div>
-              <h2 className="mb-4">Cari tau tentang aku yuk!</h2>
+              <h2 className="mb-4">Selamat datang</h2>
               <p className="mb-4 mt-2">
                 <a className="button" href="#about">
                   Let's begin
