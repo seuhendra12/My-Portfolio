@@ -1,4 +1,3 @@
-// import "../ui/portfolio.css";
 import telephone from "./img/telephone.svg";
 
 const Header = () => {
@@ -6,24 +5,21 @@ const Header = () => {
     <nav className="navbar navbar-expand-lg bg-purple fixed-top">
       <div className="container">
         <button
-          class="navbar-toggler"
+          className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
           aria-controls="navbarNav"
           aria-expanded="false"
           aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
-        <a href="/" class="navbar-brand mx-auto mx-lg-0 text-white">
+        <a href="/" className="navbar-brand mx-auto mx-lg-0 text-white">
           My Portfolio
         </a>
-        <div class="d-flex align-items-center d-lg-none">
-          {/* <div className="navbar-icon">
-            <img src={telephone} alt="telephone" />
-          </div> */}
+        <div className="d-flex align-items-center d-lg-none">
           <a
-            class="custom-btn btn"
+            className="custom-btn btn"
             href="https://api.whatsapp.com/send?phone=6282283274212">
             0822-8327-4212
           </a>
