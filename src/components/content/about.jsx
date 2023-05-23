@@ -27,7 +27,7 @@ const About = () => {
                 </div>
                 <h3 className="pt-2 mb-3">Aku dan tentang diriku</h3>
                 <p className="text-justify">
-                  Saya seorang Mahasiswa Semester 5 di Politeknik Negeri Padang
+                  Saya seorang Mahasiswa Semester 6 di Politeknik Negeri Padang
                   Jurusan Teknologi Informasi Program Studi D3 Manajemen
                   Informatika. Saya belajar bahasa java, bahasa c, dan bahasa
                   pemrograman PHP. Memiliki kerjasama tim yang baik, komunikasi
