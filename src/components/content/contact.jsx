@@ -4,6 +4,7 @@ import telegram from "./img/telegram.svg";
 import youtube from "./img/youtube.svg";
 import contact from "./img/contact.png";
 import github from "./img/github.svg";
+import linkedin from "./img/linkedin.svg";
 
 const Contact = () => {
   return (
@@ -32,28 +33,33 @@ const Contact = () => {
               </strong>
               <ul className="social-icon">
                 <li className="social-icon-item me-2">
-                  <a href="https://github.com/seuhendra12">
+                  <a href="https://github.com/seuhendra12" target="_blank">
                     <img src={github} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://web.facebook.com/Seuhendra">
+                  <a href="https://web.facebook.com/Seuhendra" target="_blank">
                     <img src={facebook} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://instagram.com/seuhendrasetiawan">
+                  <a href="https://instagram.com/seuhendrasetiawan" target="_blank">
                     <img src={instagram} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://t.me/seuhendra12">
+                  <a href="https://t.me/seuhendra12" target="_blank">
                     <img src={telegram} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://www.youtube.com/channel/UCMNOUlSYZv9Jyto4yJy5O6Q">
+                  <a href="https://www.youtube.com/channel/UCMNOUlSYZv9Jyto4yJy5O6Q" target="_blank">
                     <img src={youtube} alt="" />
+                  </a>
+                </li>
+                <li className="social-icon-item me-2">
+                  <a href="https://www.linkedin.com/in/seuhendra-setiawan-74474a221/" target="_blank">
+                    <img src={linkedin} alt="" />
                   </a>
                 </li>
               </ul>
@@ -61,8 +67,7 @@ const Contact = () => {
                 Projects
               </strong>
               <p className="text-justify mb-0">
-                Saya baru belajar membuat proyek sederhana dengan menggunakan
-                beberapa bahasa pemrograman
+                Saya telah mencoba membuat proyek sederhana dan kompleks menggunakan bahasa pemrograman PHP dengan framework Laravel dan MySQL
               </p>
             </div>
           </div>
@@ -70,9 +75,7 @@ const Contact = () => {
             <div className="contact-info d-flex flex-column">
               <strong className="site-footer-title d-block mb-3">About</strong>
               <p className="text-justify mb-2">
-                Saya seorang Mahasiswa Semester 5 di Politeknik Negeri Padang
-                Jurusan Teknologi Informasi Program Studi D3 Manajemen
-                Informatika.
+                Saya seorang Lulusan Terbaik dari Program Studi Manajemen Informatika Jurusan Teknologi Informasi Politeknik Negeri Padang dengan IPK = 3.86/4.00 bergelar Ahli Madya Komputer (A.Md.Kom)
               </p>
               <strong className="site-footer-title d-block mt-4 mb-3">
                 Email

@@ -1,5 +1,5 @@
 import pas_photo from "./img/pas_photo.png";
-import photo_with_pc from "./img/with_pc.jpg";
+import photo_card from "./img/photo_card.jpg";
 import photo_at_campus from "./img/at_campus.jpg";
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <img
-                src={photo_with_pc}
+                src={photo_card}
                 className="about-image img-fluid"
                 alt="foto with pc"
               />
@@ -25,14 +25,14 @@ const About = () => {
                     alt="pas foto"
                   />
                 </div>
-                <h3 className="pt-2 mb-3">Aku dan tentang diriku</h3>
+                <h3 className="pt-2 mb-3"></h3>
                 <p className="text-justify">
-                  Saya seorang Mahasiswa Semester 6 di Politeknik Negeri Padang
-                  Jurusan Teknologi Informasi Program Studi D3 Manajemen
-                  Informatika. Saya belajar bahasa java, bahasa c, dan bahasa
-                  pemrograman PHP. Memiliki kerjasama tim yang baik, komunikasi
-                  yang lancar, jujur, membagi waktu dengan baik dan bertanggung
-                  jawab
+                  Sebagai seorang lulusan baru dengan gelar Diploma Tiga di bidang Manajemen Informatika.
+                  Saya memiliki hasrat yang besar untuk teknologi informasi dan komputer, serta mempunyai
+                  dasar yang kuat dalam manajemen sistem dan aplikasi. Selama studi saya, saya aktif terlibat
+                  dalam proyek-proyek yang memungkinkan saya untuk mengembangkan keterampilan analitis,
+                  pemecahan masalah, dan kemampuan kerja tim. Saya siap untuk memulai karir saya dan
+                  berkontribusi dalam dunia teknologi informasi.
                 </p>
               </div>
             </div>
@@ -51,7 +51,7 @@ const About = () => {
                 <div className="profile-body">
                   <p>
                     <span className="profile-small-title">Nama</span>
-                    <span className="text-span">Seuhendra Setiawan</span>
+                    <span className="text-span">Seuhendra Setiawan, A.Md.Kom</span>
                   </p>
                   <p>
                     <span className="profile-small-title">TTL</span>
