@@ -33,32 +33,32 @@ const Contact = () => {
               </strong>
               <ul className="social-icon">
                 <li className="social-icon-item me-2">
-                  <a href="https://github.com/seuhendra12" target="_blank">
+                  <a href="https://github.com/seuhendra12" target="_blank" rel="noreferrer">
                     <img src={github} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://web.facebook.com/Seuhendra" target="_blank">
+                  <a href="https://web.facebook.com/Seuhendra" target="_blank" rel="noreferrer">
                     <img src={facebook} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://instagram.com/seuhendrasetiawan" target="_blank">
+                  <a href="https://instagram.com/seuhendrasetiawan" target="_blank" rel="noreferrer">
                     <img src={instagram} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://t.me/seuhendra12" target="_blank">
+                  <a href="https://t.me/seuhendra12" target="_blank" rel="noreferrer">
                     <img src={telegram} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://www.youtube.com/channel/UCMNOUlSYZv9Jyto4yJy5O6Q" target="_blank">
+                  <a href="https://www.youtube.com/channel/UCMNOUlSYZv9Jyto4yJy5O6Q" target="_blank" rel="noreferrer">
                     <img src={youtube} alt="" />
                   </a>
                 </li>
                 <li className="social-icon-item me-2">
-                  <a href="https://www.linkedin.com/in/seuhendra-setiawan-74474a221/" target="_blank">
+                  <a href="https://www.linkedin.com/in/seuhendra-setiawan-74474a221/" target="_blank" rel="noreferrer">
                     <img src={linkedin} alt="" />
                   </a>
                 </li>

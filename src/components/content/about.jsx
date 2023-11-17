@@ -25,7 +25,6 @@ const About = () => {
                     alt="pas foto"
                   />
                 </div>
-                <h3 className="pt-2 mb-3"></h3>
                 <p className="text-justify">
                   Sebagai seorang lulusan baru dengan gelar Diploma Tiga di bidang Manajemen Informatika.
                   Saya memiliki hasrat yang besar untuk teknologi informasi dan komputer, serta mempunyai

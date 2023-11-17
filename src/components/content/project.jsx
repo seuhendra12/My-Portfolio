@@ -27,7 +27,8 @@ const Project = () => {
               <a
                 href="https://github.com/seuhendra12/SIAKAD-PNP"
                 className="popup-image"
-                target="_blank">
+                target="_blank"
+                rel="noreferrer">
                 <img src={pnp} className="projects-image img-fluid" alt="" />
               </a>
             </div>
@@ -43,7 +44,8 @@ const Project = () => {
               <a
                 href="https://github.com/seuhendra12/SIMPUSDA-KARIMUN"
                 className="popup-image"
-                target="_blank">
+                target="_blank"
+                rel="noreferrer">
                 <img
                   src={karimun}
                   className="projects-image img-fluid"
@@ -63,7 +65,8 @@ const Project = () => {
               <a
                 href="https://github.com/seuhendra12/Binar-Car-Rental"
                 className="popup-image"
-                target="_blank">
+                target="_blank"
+                rel="noreferrer">
                 <img src={binar} className="projects-image img-fluid" alt="" />
               </a>
             </div>
@@ -79,7 +82,8 @@ const Project = () => {
               <a
                 href="https://github.com/seuhendra12/backend-kominfo"
                 className="popup-image"
-                target="_blank">
+                target="_blank"
+                rel="noreferrer">
                 <img src={logo_kominfo} className="projects-image img-fluid" alt="" />
               </a>
             </div>
@@ -95,7 +99,8 @@ const Project = () => {
               <a
                 href="https://github.com/seuhendra12/SIMAS"
                 className="popup-image"
-                target="_blank">
+                target="_blank"
+                rel="noreferrer">
                 <img src={logo_simas} className="projects-image img-fluid" alt="" />
               </a>
             </div>
